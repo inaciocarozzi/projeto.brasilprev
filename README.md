@@ -4,7 +4,7 @@ Essa é uma aplicação Teste do Processo de Seleção para Jaava Senior, sendo 
 
 ## Aplicação
 
-A aplicação está hospedada no Heroku na URL: https://secure-beyond-74058.herokuapp.com
+A aplicação está hospedada no Heroku na URL: https://github.com/inaciocarozzi/projeto.brasilprev.git
 
 A API funciona com autenticação básica, usuário e senha, que devem ser enviados juntos da requisição:
 
