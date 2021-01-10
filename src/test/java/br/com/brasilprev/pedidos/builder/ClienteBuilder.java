@@ -1,7 +1,7 @@
 package br.com.brasilprev.pedidos.builder;
 
-import br.com.brasilprev.pedidos.dominio.Cliente;
-import br.com.brasilprev.pedidos.dominio.Endereco;
+import br.com.vvtest.pedidos.dominio.Cliente;
+import br.com.vvtest.pedidos.dominio.Endereco;
 
 public class ClienteBuilder {
     private String nome = "Guilherme";

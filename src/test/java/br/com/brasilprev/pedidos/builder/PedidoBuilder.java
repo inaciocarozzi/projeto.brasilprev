@@ -2,8 +2,8 @@ package br.com.brasilprev.pedidos.builder;
 
 import java.util.Date;
 
-import br.com.brasilprev.pedidos.dominio.Cliente;
-import br.com.brasilprev.pedidos.dominio.Pedido;
+import br.com.vvtest.pedidos.dominio.Cliente;
+import br.com.vvtest.pedidos.dominio.Pedido;
 
 public class PedidoBuilder {
 

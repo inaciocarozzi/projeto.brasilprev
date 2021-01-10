@@ -1,6 +1,6 @@
 package br.com.brasilprev.pedidos.builder;
 
-import br.com.brasilprev.pedidos.dominio.Endereco;
+import br.com.vvtest.pedidos.dominio.Endereco;
 
 public class EnderecoBuilder {
     private String rua = "Rua Feliz";

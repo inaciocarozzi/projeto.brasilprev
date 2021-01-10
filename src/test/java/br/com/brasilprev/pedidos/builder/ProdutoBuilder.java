@@ -1,7 +1,7 @@
 package br.com.brasilprev.pedidos.builder;
 
-import br.com.brasilprev.pedidos.dominio.Categoria;
-import br.com.brasilprev.pedidos.dominio.Produto;
+import br.com.vvtest.pedidos.dominio.Categoria;
+import br.com.vvtest.pedidos.dominio.Produto;
 
 public class ProdutoBuilder {
 

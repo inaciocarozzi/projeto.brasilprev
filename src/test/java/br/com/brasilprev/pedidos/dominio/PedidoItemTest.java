@@ -8,10 +8,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import br.com.brasilprev.pedidos.builder.PedidoBuilder;
 import br.com.brasilprev.pedidos.builder.ProdutoBuilder;
-import br.com.brasilprev.pedidos.dominio.Pedido;
-import br.com.brasilprev.pedidos.dominio.PedidoItem;
-import br.com.brasilprev.pedidos.dominio.Produto;
-import br.com.brasilprev.pedidos.exception.InvalidFieldException;
+import br.com.vvtest.pedidos.dominio.Pedido;
+import br.com.vvtest.pedidos.dominio.PedidoItem;
+import br.com.vvtest.pedidos.dominio.Produto;
+import br.com.vvtest.pedidos.exception.InvalidFieldException;
 
 @RunWith(SpringRunner.class)
 public class PedidoItemTest {

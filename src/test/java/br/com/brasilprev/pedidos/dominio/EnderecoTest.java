@@ -6,8 +6,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import br.com.brasilprev.pedidos.dominio.Endereco;
-import br.com.brasilprev.pedidos.exception.InvalidFieldException;
+import br.com.vvtest.pedidos.dominio.Endereco;
+import br.com.vvtest.pedidos.exception.InvalidFieldException;
 
 @RunWith(SpringRunner.class)
 public class EnderecoTest {
